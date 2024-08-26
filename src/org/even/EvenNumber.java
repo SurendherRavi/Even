@@ -9,6 +9,7 @@ public class EvenNumber {
 			}
 			}
 		System.out.println(count);
+		System.out.println("Hi");
 	}
 	public static void main(String[] args) {
 		EvenNumber e = new EvenNumber();
